@@ -331,7 +331,7 @@ This project adheres to CCT College Dublin's academic integrity policies:
 ## 📧 Contact
 
 For queries regarding this project:
-- Email: [nimraaishere@gmail.com]
+- Email: [memonahafeez12@gmail.com]
 
 
 ---
