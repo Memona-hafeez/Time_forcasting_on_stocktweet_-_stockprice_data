@@ -1,7 +1,7 @@
 # Stock Price Forecasting with Twitter Sentiment Analysis
 
-## MSc Data Analytics - Advanced Data Analytics & Big Data Storage and Processing
-**CCT College Dublin - Continuous Assessment**
+##  Advanced Data Analytics & Big Data Storage and Processing
+
 
 ---
 
