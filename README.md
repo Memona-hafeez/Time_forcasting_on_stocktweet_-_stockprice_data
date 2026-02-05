@@ -61,7 +61,7 @@ Interactive Dashboard (Visualization)
 
 ## 🔧 Implementation Components
 
-### 1. Data Storage & Processing (30 marks)
+### 1. Data Storage & Processing 
 - **Distributed Environment**: Apache Spark for parallel processing
 - **Data Preparation**: ETL pipeline for cleaning and transformation
 - **Storage Strategy**: Hybrid SQL/NoSQL approach
@@ -71,7 +71,7 @@ Interactive Dashboard (Visualization)
 
 **Rationale**: Spark chosen for its in-memory processing capabilities and unified API for batch and stream processing. MySQL provides ACID compliance for financial data, while MongoDB offers flexible schema for tweet storage.
 
-### 2. Database Comparative Analysis (30 marks)
+### 2. Database Comparative Analysis 
 - **Databases Compared**: MySQL (SQL) vs MongoDB (NoSQL)
 - **Testing Tool**: YCSB (Yahoo! Cloud Serving Benchmark)
 - **Workloads Tested**:
@@ -87,7 +87,7 @@ Interactive Dashboard (Visualization)
 
 **Key Findings**: Detailed performance comparison with graphs and analysis included in the report.
 
-### 3. Big Data Architecture Design (20 marks)
+### 3. Big Data Architecture Design 
 Comprehensive architecture diagram includes:
 - Data ingestion layer
 - Storage layer (SQL/NoSQL)
@@ -101,8 +101,7 @@ All components documented with technology stack justification.
 
 ## 📈 Advanced Data Analytics
 
-### 1. Data Analysis Pipeline (40 marks)
-
+### 1. Data Analysis Pipeline 
 #### Exploratory Data Analysis (EDA)
 - Stock price trend analysis
 - Volume distribution analysis
@@ -130,7 +129,7 @@ All components documented with technology stack justification.
 #### Machine Learning Models
 Selected 5+ companies for analysis: AAPL, AMZN, TSLA, MSFT, GOOGL
 
-### 2. Time Series Forecasting (20 marks)
+### 2. Time Series Forecasting 
 
 #### Model 1: SARIMA (Seasonal AutoRegressive Integrated Moving Average)
 - **Parameters**: (p, d, q) × (P, D, Q, s)
@@ -153,8 +152,7 @@ Selected 5+ companies for analysis: AAPL, AMZN, TSLA, MSFT, GOOGL
 - Transfer learning from similar stocks
 - Feature engineering to add information density
 
-### 3. Hyperparameter Tuning (20 marks)
-
+### 3. Hyperparameter Tuning 
 #### SARIMA Tuning
 - **Method**: Auto-ARIMA with seasonal decomposition
 - **Metrics**: AIC, BIC, RMSE, MAE
@@ -172,8 +170,7 @@ Selected 5+ companies for analysis: AAPL, AMZN, TSLA, MSFT, GOOGL
 
 **Results**: Optimal configurations documented with performance metrics.
 
-### 4. Results Presentation & Dashboard (20 marks)
-
+### 4. Results Presentation & Dashboard 
 #### Interactive Dashboard Features
 - Multi-company selection dropdown
 - Forecast horizon selector (1/3/7 days)
@@ -278,60 +275,8 @@ python src/dashboard.py
 
 ---
 
-## 📹 Screencast
 
-**Demonstration Video**: [Google Drive Link]
-- Duration: 7 minutes
-- Contents:
-  - Pipeline walkthrough
-  - Database operations demonstration
-  - Dashboard functionality
-  - Forecast generation process
 
----
-
-## 📚 References
-
-All references follow Harvard citation style and are included in the detailed report.
-
----
-
-## 👥 Author
-
-**Student Name**: [Your Name]
-**Student ID**: [Your ID]
-**Programme**: MSc in Data Analytics
-**Module**: Advanced Data Analytics & Big Data Storage and Processing
-
----
-
-## 📝 Submission Checklist
-
-- ✅ Written Report (Word document)
-- ✅ Jupyter Notebooks (max 2)
-- ✅ Source Code Files
-- ✅ Dataset Files
-- ✅ Screencast (Google Drive link)
-- ✅ GitHub Repository with regular commits
-- ✅ Database setup scripts
-- ✅ YCSB benchmark results
-
----
-
-## ⚖️ Academic Integrity
-
-This project adheres to CCT College Dublin's academic integrity policies:
-- AI tools used only for brainstorming and grammar checking
-- No code generation by AI
-- All implementations are original work
-- Proper citations for all references
-
----
-
-## 📧 Contact
-
-For queries regarding this project:
-- Email: [memonahafeez12@gmail.com]
 
 
 ---
